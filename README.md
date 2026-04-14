@@ -41,9 +41,11 @@ You will receive:
 - Free support for setup
 - Commercial use & white-label rights
 
-## 📩 Contact
-Interested in buying the full project?
-DM me directly to get details.
+## 📩 Contact & Support
+For inquiries about purchasing the source code or business cooperation:
+Telegram: https://t.me/sbti_quiz
+
+DM me directly for details.
 
 ## ⚖️ Important
 This repository is for demonstration & marketing purposes only.
