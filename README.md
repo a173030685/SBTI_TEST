@@ -45,7 +45,7 @@ You will receive:
 For inquiries about purchasing the source code or business cooperation:
 Telegram: https://t.me/sbti_quiz
 
-DM me directly for details.
+Please contact me directly for details.
 
 ## ⚖️ Important
 This repository is for demonstration & marketing purposes only.
