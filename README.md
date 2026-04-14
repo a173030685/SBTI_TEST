@@ -25,10 +25,8 @@ This project has everything needed to become a hit website:
 - Perfect for content sites & side projects
 
 ## 📸 Screenshots
-<img width="434" height="835" alt="ScreenShot_2026-04-14_114359_742" src="https://github.com/user-attachments/assets/824a8606-a5d2-4dd5-9502-9bc6e51e8320" />
-<img width="434" height="835" alt="ScreenShot_2026-04-14_114420_406" src="https://github.com/user-attachments/assets/8ae78c2a-5e7c-4c71-8723-84da79598a87" />
-<img width="434" height="835" alt="ScreenShot_2026-04-14_114440_583" src="https://github.com/user-attachments/assets/9207fe80-6da5-4be7-8565-e0da7ea5e64c" />
-<img width="434" height="835" alt="ScreenShot_2026-04-14_114733_149" src="https://github.com/user-attachments/assets/9658f5c4-5a0c-4a69-a00a-d96db7057b53" />
+<img width="434" height="835" alt="ScreenShot_2026-04-14_114359_742" src="https://github.com/user-attachments/assets/824a8606-a5d2-4dd5-9502-9bc6e51e8320" /><img width="434" height="835" alt="ScreenShot_2026-04-14_114420_406" src="https://github.com/user-attachments/assets/8ae78c2a-5e7c-4c71-8723-84da79598a87" />
+<img width="434" height="835" alt="ScreenShot_2026-04-14_114440_583" src="https://github.com/user-attachments/assets/9207fe80-6da5-4be7-8565-e0da7ea5e64c" /><img width="434" height="835" alt="ScreenShot_2026-04-14_114733_149" src="https://github.com/user-attachments/assets/9658f5c4-5a0c-4a69-a00a-d96db7057b53" />
 
 ## 💰 Full Source Code For Sale
 The complete, production-ready source code of the SBTI Personality Test website is **available for commercial purchase**.
@@ -43,6 +41,7 @@ You will receive:
 
 ## 📩 Contact & Support
 For inquiries about purchasing the source code or business cooperation:
+
 Telegram: https://t.me/sbti_quiz
 
 Please contact me directly for details.
